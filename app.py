@@ -118,7 +118,7 @@ def show_location_details(location, category):
 
             
             if "thumbnail" in location:
-                st.image(location["thumbnail"], caption=location["title"], use_container_width ="always", width=200)
+                st.image(location["thumbnail"], caption=location["title"], use_container_width ="always", width=300)
 
             map_ = folium.Map(
                 location=[location["gps_coordinates"]["latitude"], location["gps_coordinates"]["longitude"]],
