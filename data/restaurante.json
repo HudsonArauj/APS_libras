@@ -1,0 +1,67 @@
+[
+    {
+        "position": 1,
+        "rating": 4.6,
+        "reviews_original": "(2,6 mil)",
+        "reviews": 2600,
+        "price": "$$",
+        "description": "Aclamada parmegiana em ambiente familiar",
+        "lsig": "AB86z5UJXerC8CEjcO_xPtJ7l1TO",
+        "thumbnail": "https://serpapi.com/searches/67227584c0028e6e4e0494f7/images/92a07eed4c852b53537453f1e11aa76d312f4ad6ac2583b2dcae44df882e665b1123093d8968d78a.jpeg",
+        "title": "Camponesa O Parmegiana - Bauru",
+        "type": "Brasileira",
+        "address": "Bauru - SP",
+        "place_id": "8006504004915663653",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com&hl=pt&location=S%C3%A3o+Paulo%2C+S%C3%A3o+Paulo%2C+Brazil&ludocid=8006504004915663653&q=Restaurante",
+        "gps_coordinates": {
+            "latitude": -22.369186,
+            "longitude": -49.035717
+        }
+    },
+    {
+        "position": 2,
+        "rating": 4.2,
+        "reviews_original": "(280)",
+        "reviews": 280,
+        "description": "Refeição no local·Para viagem·Entrega sem contato",
+        "lsig": "AB86z5V4LSZzq8TCAfAZKd9YIgKt",
+        "thumbnail": "https://serpapi.com/searches/67227584c0028e6e4e0494f7/images/92a07eed4c852b53537453f1e11aa76d05c2432a352553cd0b6b838fa8c80dc9ac5968d95607521b.jpeg",
+        "service_options": {
+            "refeição_no_local": true,
+            "para_viagem": true,
+            "entrega_sem_contato": true
+        },
+        "title": "Restaurante Fidalga",
+        "type": "Restaurante",
+        "address": "Bauru - SP",
+        "place_id": "13286981648671852482",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com&hl=pt&location=S%C3%A3o+Paulo%2C+S%C3%A3o+Paulo%2C+Brazil&ludocid=13286981648671852482&q=Restaurante",
+        "gps_coordinates": {
+            "latitude": -22.331015,
+            "longitude": -48.915295
+        }
+    },
+    {
+        "position": 3,
+        "rating": 4.8,
+        "reviews_original": "(65)",
+        "reviews": 65,
+        "description": "Refeição no local·Para viagem·Entrega sem contato",
+        "lsig": "AB86z5XbTmk96trHOIVLxwOpPP8V",
+        "thumbnail": "https://serpapi.com/searches/67227584c0028e6e4e0494f7/images/92a07eed4c852b53537453f1e11aa76d8c66f491703fe6b51ac549f6f0df522ce1fb34a647a3b30a.jpeg",
+        "service_options": {
+            "refeição_no_local": true,
+            "para_viagem": true,
+            "entrega_sem_contato": true
+        },
+        "title": "DETINHA RESTAURANTE",
+        "type": "Restaurante",
+        "address": "Bauru - SP",
+        "place_id": "5832072268896239223",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com&hl=pt&location=S%C3%A3o+Paulo%2C+S%C3%A3o+Paulo%2C+Brazil&ludocid=5832072268896239223&q=Restaurante",
+        "gps_coordinates": {
+            "latitude": -22.315676,
+            "longitude": -49.023808
+        }
+    }
+]

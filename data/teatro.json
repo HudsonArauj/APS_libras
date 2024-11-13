@@ -1,0 +1,56 @@
+[
+    {
+        "position": 1,
+        "rating": 4.4,
+        "reviews_original": "(1,5 mil)",
+        "reviews": 1500,
+        "lsig": "AB86z5VhfSCUorzOmpN-xOq169ko",
+        "thumbnail": "https://www.baressp.com.br/bares/fotos2/teatro_jardim_sul_02-min.jpg",
+        "title": "Teatro Jardim Sul",
+        "type": "Teatro",
+        "address": "São Paulo - SP",
+        "place_id": "14930301825515588941",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com&hl=pt&location=S%C3%A3o+Paulo%2C+S%C3%A3o+Paulo%2C+Brazil&ludocid=14930301825515588941&q=Teatro",
+        "gps_coordinates": {
+            "latitude": -23.631058,
+            "longitude": -46.73553
+        },
+        "description": "Teatro Jardim Sul é um teatro localizado em São Paulo, SP. O teatro oferece uma variedade de peças e espetáculos para todos os públicos. Com uma programação diversificada e salas de teatro modernas e confortáveis, o Teatro Jardim Sul é o lugar ideal para quem busca diversão e entretenimento de qualidade."
+    },
+    {
+        "position": 2,
+        "rating": 4.8,
+        "reviews_original": "(6,5 mil)",
+        "reviews": 6500,
+        "lsig": "AB86z5W5lr15F6TjT9v51WI6bp42",
+        "thumbnail": "https://www.teatrofernandotorres.com.br/images/teatro/cadeiras.jpg",
+        "title": "Teatro Fernando Torres",
+        "type": "Teatro",
+        "address": "São Paulo - SP",
+        "place_id": "6733439272422211073",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com&hl=pt&location=S%C3%A3o+Paulo%2C+S%C3%A3o+Paulo%2C+Brazil&ludocid=6733439272422211073&q=Teatro",
+        "gps_coordinates": {
+            "latitude": -23.542534,
+            "longitude": -46.56944
+        },
+        "description": "Teatro Fernando Torres é um teatro localizado em São Paulo, SP. O teatro oferece uma variedade de peças e espetáculos para todos os públicos. Com uma programação diversificada e salas de teatro modernas e confortáveis, o Teatro Fernando Torres é o lugar ideal para quem busca diversão e entretenimento de qualidade."
+    },
+    {
+        "position": 3,
+        "rating": 4.6,
+        "reviews_original": "(5,6 mil)",
+        "reviews": 5600,
+        "lsig": "AB86z5Ubxg052MhOZ3eLutOvQjvy",
+        "thumbnail": "https://www.eventim.com.br/obj/media/BR-eventim/galery/kuenstler/t/teatrodasartes-venue-eventim-novas-10.jpeg",
+        "title": "Teatro das Artes",
+        "type": "Teatro",
+        "address": "São Paulo - SP",
+        "place_id": "2119461731866438061",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com&hl=pt&location=S%C3%A3o+Paulo%2C+S%C3%A3o+Paulo%2C+Brazil&ludocid=2119461731866438061&q=Teatro",
+        "gps_coordinates": {
+            "latitude": -23.572546,
+            "longitude": -46.69535
+        },
+        "description": "Teatro das Artes é um teatro localizado em São Paulo, SP. O teatro oferece uma variedade de peças e espetáculos para todos os públicos. Com uma programação diversificada e salas de teatro modernas e confortáveis, o Teatro das Artes é o lugar ideal para quem busca diversão e entretenimento de qualidade."
+    }
+]

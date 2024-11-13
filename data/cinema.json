@@ -1,0 +1,56 @@
+[
+    {
+        "position": 1,
+        "lsig": "AB86z5Xg7FwZEUOL_RegVzPLuN4V",
+        "links": {
+            "website": "http://www.cinemark.com.br/",
+            "directions": "https://www.google.com/maps/dir//Cinemark+-+Pte.+Pequena,+Santana+-+SP,+03033-020/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x94ce588dd6feda23:0x4c2ba59e2038aed?sa=X&ved=2ahUKEwjJv5jYz7aJAxUIkIQIHSzBEcEQ48ADegQILhAA&hl=pt&gl=br"
+        },
+        "title": "Cinemark",
+        "address": "Santana - SP",
+        "type": "Cinema",
+        "place_id": "343041416840317677",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com&hl=pt&location=S%C3%A3o+Paulo%2C+S%C3%A3o+Paulo%2C+Brazil&ludocid=343041416840317677&q=Cinema",
+        "gps_coordinates": {
+            "latitude": -23.521458,
+            "longitude": -46.62357
+        },
+        "description": "Cinemark é uma rede de cinemas que oferece uma experiência única de entretenimento para todos os públicos. Com salas de cinema em todo o Brasil, a Cinemark é uma das maiores redes de cinemas do país. A empresa oferece uma ampla variedade de filmes, desde os mais recentes lançamentos até clássicos do cinema. Além disso, a Cinemark também oferece uma série de serviços e comodidades para tornar a experiência de ir ao cinema ainda mais agradável. Com uma programação diversificada e salas de cinema modernas e confortáveis, a Cinemark é o lugar ideal para quem busca diversão e entretenimento de qualidade."
+    },
+    {
+        "position": 2,
+        "lsig": "AB86z5VIi1FqDaLnxS-Ft_KVDIBd",
+        "links": {
+            "website": "http://www.cinemark.com.br/",
+            "directions": "https://www.google.com/maps/dir//Cinema+Cinemark+-+Rua+Gon%C3%A7alves+Crespo,+78+S%2FN,+Lojas+420%2F421+-+Tatuap%C3%A9,+S%C3%A3o+Paulo,+03066-030/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x94ce5ec325a1282d:0xb752ef7895e83093?sa=X&ved=2ahUKEwjJv5jYz7aJAxUIkIQIHSzBEcEQ48ADegQILRAA&hl=pt&gl=br"
+        },
+        "title": "Cinema Cinemark",
+        "address": "São Paulo - SP",
+        "type": "Cinema",
+        "place_id": "13209883958221222035",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com&hl=pt&location=S%C3%A3o+Paulo%2C+S%C3%A3o+Paulo%2C+Brazil&ludocid=13209883958221222035&q=Cinema",
+        "gps_coordinates": {
+            "latitude": -23.539001,
+            "longitude": -46.575874
+        },
+        "description": "Cinemark é uma rede de cinemas que oferece uma experiência única de entretenimento para todos os públicos. Com salas de cinema em todo o Brasil, a Cinemark é uma das maiores redes de cinemas do país. A empresa oferece uma ampla variedade de filmes, desde os mais recentes lançamentos até clássicos do cinema. Além disso, a Cinemark também oferece uma série de serviços e comodidades para tornar a experiência de ir ao cinema ainda mais agradável. Com uma programação diversificada e salas de cinema modernas e confortáveis, a Cinemark é o lugar ideal para quem busca diversão e entretenimento de qualidade."
+    },
+    {
+        "position": 3,
+        "lsig": "AB86z5WNffnOXKXIHAdrehwQBTRT",
+        "links": {
+            "website": "http://www.cinemark.com.br/",
+            "directions": "https://www.google.com/maps/dir//Cinema+Cinemark+-+Tv.+Casalbuono,+120+-+Loja+503+-+Vila+Guilherme,+S%C3%A3o+Paulo+-+SP,+02047-050/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x94ce5890cc9c5221:0xc480ffd2c6adb523?sa=X&ved=2ahUKEwjJv5jYz7aJAxUIkIQIHSzBEcEQ48ADegQILBAA&hl=pt&gl=br"
+        },
+        "title": "Cinema Cinemark",
+        "address": "São Paulo - SP",
+        "type": "Cinema",
+        "place_id": "14159598509194327331",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com&hl=pt&location=S%C3%A3o+Paulo%2C+S%C3%A3o+Paulo%2C+Brazil&ludocid=14159598509194327331&q=Cinema",
+        "gps_coordinates": {
+            "latitude": -23.515802,
+            "longitude": -46.617214
+        },
+        "description": "Cinemark é uma rede de cinemas que oferece uma experiência única de entretenimento para todos os públicos. Com salas de cinema em todo o Brasil, a Cinemark é uma das maiores redes de cinemas do país. A empresa oferece uma ampla variedade de filmes, desde os mais recentes lançamentos até clássicos do cinema. Além disso, a Cinemark também oferece uma série de serviços e comodidades para tornar a experiência de ir ao cinema ainda mais agradável. Com uma programação diversificada e salas de cinema modernas e confortáveis, a Cinemark é o lugar ideal para quem busca diversão e entretenimento de qualidade."
+    }
+]
