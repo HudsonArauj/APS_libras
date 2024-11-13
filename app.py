@@ -82,7 +82,7 @@ def show_location_details(location, category):
             st.write(f"**Descrição:** {location['description']}")
             
             if 'thumbnail' in location:
-                st.image(location['thumbnail'], caption=location['title'], use_column_width="never", width= 150)
+                st.image(location['thumbnail'], caption=location['title'], use_container_width ="never", width= 150)
             
         
         if category == 'Cinemas':
@@ -95,7 +95,7 @@ def show_location_details(location, category):
 
 
             if "image" in location:
-                st.image(location["image"], caption=location["title"], use_column_width=True, width=100)
+                st.image(location["image"], caption=location["title"], use_container_width =True, width=100)
 
             map_ = folium.Map(
                 location=[location["gps_coordinates"]["latitude"], location["gps_coordinates"]["longitude"]],
@@ -118,7 +118,7 @@ def show_location_details(location, category):
 
             
             if "thumbnail" in location:
-                st.image(location["thumbnail"], caption=location["title"], use_column_width="always", width=100)
+                st.image(location["thumbnail"], caption=location["title"], use_container_width ="always", width=100)
 
             map_ = folium.Map(
                 location=[location["gps_coordinates"]["latitude"], location["gps_coordinates"]["longitude"]],
@@ -140,7 +140,7 @@ def show_location_details(location, category):
             st.write(f"**Descrição:** {location['description']}")
 
             if "image" in location:
-                st.image(location["image"], caption=location["title"], use_column_width=True, width=100)
+                st.image(location["image"], caption=location["title"], use_container_width =True, width=100)
 
             map_ = folium.Map(
                 location=[location["gps_coordinates"]["latitude"], location["gps_coordinates"]["longitude"]],
